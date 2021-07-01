@@ -1,7 +1,12 @@
 {
   "addons": {
     "jiras-got-issues@intracto.com": {
-      "updates": []
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/Intracto/jiras-got-issues-browser-extension/raw/master/firefox/jiras_got_issues-1.0-fx.xpi"
+        }
+      ]
     }
   }
 }
