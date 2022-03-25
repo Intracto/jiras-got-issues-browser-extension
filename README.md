@@ -38,4 +38,5 @@
 ![alt text](images/readme/demo_6.png "Settings")
 - **Enable issue previewing:** enables or disables the preview bubbles that show highlighted tasks out of view
 - **Add MAIN tag to parent issue:** enables or disables the 'Main' tag which visually distinguishes main tasks
+- **Hide error messages:** hides or shows Jira error messages, which can be a bit of a pain in Firefox
 - **Enable extension on these boards:** contains the IDs of boards you want the extension to work on. Multiple IDs should be on multiple lines. Example URL: https://jira.hosted-tools.com/secure/RapidBoard.jspa?rapidView=2196&quickFilter=8539 would be ID `2196`
