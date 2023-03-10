@@ -22,13 +22,16 @@
 ### Link to main task in the grey stubs above subtasks
 ![alt text](images/readme/demo_5.png "Linking demo")
 
+### Easier-to-read issue tags
+![alt text](images/readme/demo_7.png "Issue tags")
+
 ## Installation (Firefox)
-1. Download the latest release (download starts immediately): https://github.com/Intracto/jiras-got-issues-browser-extension/raw/master/firefox/jiras_got_issues-1.3-fx.xpi
-1. Visit `about:addons` in your browser
+1. Download the latest release (download starts immediately): https://github.com/Intracto/jiras-got-issues-browser-extension/raw/master/firefox/jiras_got_issues-1.4-fx.xpi.
+1. Visit `about:addons` in your browser.
 1. Click the cog button right of the page title, and select "Install Add-on From File..."
    ![alt text](images/readme/firefox_install.png "Firefox installation")
-1. Select the downloaded `.xpi` file, and follow the steps shown on screen
-1. After installation, add your board ID in the settings popup (See _Settings_ section of this readme)
+1. Select the downloaded `.xpi` file, and follow the steps shown on screen.
+1. After installation, add your board ID in the settings popup (See _Settings_ section of this readme).
 1. Refresh your board. Everything should be ready to use!
 
 > ![alt text](images/readme/information.png "Information icon") Your browser will update the extension automatically whenever a new version is available
@@ -36,7 +39,10 @@
 
 ## Settings
 ![alt text](images/readme/demo_6.png "Settings")
-- **Enable issue previewing:** enables or disables the preview bubbles that show highlighted tasks out of view
-- **Add MAIN tag to parent issue:** enables or disables the 'Main' tag which visually distinguishes main tasks
-- **Hide error messages:** hides or shows Jira error messages, which can be a bit of a pain in Firefox
-- **Enable extension on these boards:** contains the IDs of boards you want the extension to work on. Multiple IDs should be on multiple lines. Example URL: https://jira.hosted-tools.com/secure/RapidBoard.jspa?rapidView=2196&quickFilter=8539 would be ID `2196`
+- **Enable issue previewing:** enables or disables the preview bubbles that show highlighted tasks out of view.
+- **Add MAIN tag to parent issue:** enables or disables the 'Main' tag which visually distinguishes main tasks.
+- **Show verbose issue tags:** shows issue types, flags and priorities as easier-to-read tags.
+- **Remove issue clutter:** removes empty story point bubbles, 'normal' priority markers, and the number-of-days-in-column dots.
+- **Hide error messages:** hides or shows Jira error messages, which can be a bit of a pain in Firefox.
+- **Card color width:** sets the width of the vertical card color indicator.
+- **Enable extension on these boards:** contains the IDs of boards you want the extension to work on. Multiple IDs should be on multiple lines. Example URL: https://jira.hosted-tools.com/secure/RapidBoard.jspa?rapidView=2196&quickFilter=8539 would be ID `2196`.

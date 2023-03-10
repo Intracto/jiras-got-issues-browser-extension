@@ -17,6 +17,10 @@
         {
           "version": "1.3",
           "update_link": "https://github.com/Intracto/jiras-got-issues-browser-extension/raw/master/firefox/jiras_got_issues-1.3-fx.xpi"
+        },
+        {
+          "version": "1.4",
+          "update_link": "https://github.com/Intracto/jiras-got-issues-browser-extension/raw/master/firefox/jiras_got_issues-1.4-fx.xpi"
         }
       ]
     }
