@@ -26,7 +26,7 @@
 ![alt text](images/readme/demo_7.png "Issue tags")
 
 ## Installation (Firefox)
-1. Download the latest release (download starts immediately): https://github.com/Intracto/jiras-got-issues-browser-extension/raw/master/firefox/jiras_got_issues-1.4-fx.xpi.
+1. Download the latest release (download starts immediately): https://github.com/Intracto/jiras-got-issues-browser-extension/raw/master/firefox/jiras_got_issues-1.4.1-fx.xpi.
 1. Visit `about:addons` in your browser.
 1. Click the cog button right of the page title, and select "Install Add-on From File..."
    ![alt text](images/readme/firefox_install.png "Firefox installation")
